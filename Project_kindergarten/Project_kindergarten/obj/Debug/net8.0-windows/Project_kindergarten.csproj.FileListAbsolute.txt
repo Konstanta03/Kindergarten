@@ -1,0 +1,16 @@
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.administrator_form.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin_add_groups.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin_edit_groups.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin_groups.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin_kinder.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin_personnelcs.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.admin__groups.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.educators_label.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.Form1.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.Properties.Resources.resources
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.csproj.GenerateResource.cache
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.AssemblyInfoInputs.cache
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.AssemblyInfo.cs
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.csproj.CoreCompileInputs.cache
+D:\C#\Pro\Project_kindergarten\Project_kindergarten\obj\Debug\net8.0-windows\Project_kindergarten.sourcelink.json
